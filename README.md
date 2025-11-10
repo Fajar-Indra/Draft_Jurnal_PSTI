@@ -30,6 +30,7 @@ Tujuan penelitian ini adalah:
 4.	menyusun pemahaman konseptual berbasis evidence dari literatur
    
 Penelitian ini penting karena:
+
 •	organisasi sering salah memutuskan prioritas investasi TI
 •	intangible benefit sering diabaikan
 •	banyak investasi TI tidak pernah dievaluasi setelah implementasi
