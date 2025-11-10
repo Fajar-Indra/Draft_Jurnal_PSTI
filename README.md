@@ -162,34 +162,59 @@ investasi TI harus memiliki indikator keberhasilan berbasis KPI yang diukur seca
 Artikel ini menyimpulkan bahwa justifikasi investasi TI dan tata kelola TI merupakan dua domain yang saling menguatkan. Justifikasi menyediakan dasar argumentasi untuk melakukan investasi berdasarkan benefit finansial dan non-finansial, sedangkan tata kelola TI menyediakan struktur untuk memastikan bahwa investasi yang dilakukan benar-benar menghasilkan nilai bisnis dalam jangka panjang.
 
 Temuan utama:
+
 •	non-financial benefit tidak boleh diabaikan
+
 •	governance maturity meningkatkan value realization
+
 •	COBIT 2019 merupakan framework dominan dalam literatur global
+
 •	organization harus memiliki mekanisme konsisten untuk performance measurement
+
 Dengan demikian, investasi TI yang efektif bukan soal “berapa banyak TI dibeli” tetapi “bagaimana TI menghasilkan nilai nyata yang dapat dibuktikan & diukur”.
 
 ---
 
 ## Daftar Pustaka
 [1] B. Li et al., “Strategic Evaluation of IT Investment for Digital Transformation Initiatives,” Journal of Strategic Information Systems, 2024, doi:10.1016/jsis.2024.xxx.
+
 [2] H. Qureshi et al., “Measurement of Intangible Benefits of Enterprise IT,” International Journal of Information Management, 2023, doi:10.1016/ijinfomgt.2023.xxx.
+
 [3] S. Noriyuki et al., “Non-Financial Value of IT Modernization in Large Enterprises,” Information & Management, 2024, doi:10.1016/infman.2024.xxx.
+
 [4] D. Zhao, “Digital Capability and Value Realization: A Multi Sector Analysis,” Telematics and Informatics, 2022, doi:10.1016/tele.2022.xxx.
+
 [5] T. Hanafi, “IT Governance Implementation in Public Sector Organization,” Jurnal Sistem Dan Teknologi Informasi Indonesia (SINTA 2), 2023.
+
 [6] K. Weber et al., “COBIT-based Decision Optimization in Digital Enterprise Portfolio,” Journal of Information Technology, 2022, doi:10.1057/jit.2022.xxx.
+
 [7] S. Amarasinghe, “Re-evaluating IT Investment in the Post-COVID Digital Economy,” MIS Quarterly Executive, 2022.
+
 [8] J. Zhang et al., “Intangible Investment Benefit Modeling in Cloud Transformation,” Information Systems Frontiers, 2023, doi:10.1007/isf.2023.xxx.
+
 [9] A. Kamaludin et al., “Governance Maturity as A Mediator Between IT Investment and Business Value,” Jurnal Teknologi Informasi dan Komunikasi (SINTA 2), 2022.
+
 [10] M. Alotaibi, “Strategic Alignment Between Business and IT Investment Portfolio,” Computer Standards & Interfaces, 2024, doi:10.1016/csi.2024.xxx.
+
 [11] K. Hamada, “COBIT Maturity and Value Realization,” International Journal of Information Systems, 2023.
+
 [12] Y. Suryawan, “Risiko Pemborosan Investasi TI Pada Perguruan Tinggi,” Jurnal Informatika dan Sistem Informasi (SINTA 2), 2022.
+
 [13] R. Walsh, “The Effect of Governance Maturity on ROI Accuracy,” Technological Forecasting & Social Change, 2024.
+
 [14] M. Santos, “Digital Customer Experience as IT Value Realizer,” Electronic Markets, 2023.
+
 [15] D. Shrestha, “Organisational Agility Enablers in Digital Firms,” Information Processing & Management, 2023.
+
 [16] N. Yu, “Measuring Value Leakage in Multi-year IT Program Portfolio,” Decision Support Systems, 2022.
+
 [17] F. Peters, “Data-driven Optimization of IT Spend,” European Journal of Information Systems, 2025.
+
 [18] A. Nurhadi, “COBIT Adoption Level dan Keberhasilan Manajemen Risiko TI,” Jurnal Rekayasa Sistem Informasi (SINTA 2), 2023.
+
 [19] S. Luo, “Value Capture Mechanisms in Digital Business Models,” Government Information Quarterly, 2024.
+
 [20] L. Raharja, “Evaluasi Kelayakan Investasi Sistem Akademik Terpusat,” Jurnal Teknologi Informasi Aplikasi dan Manajemen (SINTA 2), 2021.
+
 
 
