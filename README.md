@@ -18,18 +18,23 @@ Investasi Teknologi Informasi (TI) merupakan salah satu variabel strategis utama
 Investasi Teknologi Informasi (TI) telah menjadi faktor kunci dalam mendukung transformasi digital, inovasi, dan peningkatan daya saing organisasi. Tidak ada organisasi modern—baik sektor publik maupun privat—yang dapat tumbuh secara berkelanjutan tanpa memanfaatkan teknologi. Namun demikian, investasi TI tidak selalu menghasilkan nilai yang diharapkan apabila tidak disertai mekanisme tata kelola TI (IT governance) yang matang. Banyak studi menunjukkan bahwa perusahaan sering mengalami IT waste, under-utilized systems, atau bahkan kegagalan implementasi, karena proses justifikasi TI tidak dilakukan secara tepat atau tidak dikaitkan dengan target kinerja bisnis[1]. Oleh karena itu, pembahasan hubungan antara justification dan governance menjadi krusial dalam konteks manajemen strategis TI.
 
 Dalam banyak kasus, evaluasi kelayakan investasi TI hanya dilakukan dalam bentuk perhitungan ROI atau IRR, yang sebenarnya tidak cukup memotret keseluruhan manfaat TI. Padahal, manfaat terbesar dari TI sering kali muncul dalam bentuk non-financial impact, seperti peningkatan kualitas layanan, kepuasan pengguna, integrasi proses, kecepatan pengambilan keputusan, otomatisasi proses, dan inovasi model bisnis[2]. Manfaat semacam ini sulit dinyatakan dalam nilai moneter secara langsung, namun beberapa penelitian menunjukkan bahwa intangible benefits adalah determinan paling menentukan dari keberhasilan transformasi digital organisasi[3][4].
+
 Di sisi lain, tata kelola TI hadir sebagai framework formal untuk memastikan bahwa investasi TI selaras dengan strategi organisasi, risiko dapat diidentifikasi dan dikontrol, serta manfaat dapat diukur dan dipantau secara berkelanjutan[5]. Framework seperti COBIT 2019, ITIL 4, dan ISO/IEC 38500 menawarkan prinsip dan domain governance yang dapat membantu organisasi dalam memperkuat decision-making process, khususnya pada bagaimana TI berkontribusi terhadap tujuan bisnis organisasi[6].
+
 Dengan demikian, hubungan antara investment justification dan governance maturity tidak dapat dipisahkan. Evaluasi investasi TI tanpa governance akan menghasilkan asumsi manfaat yang bias, sedangkan governance tanpa justification akan menghasilkan birokrasi yang tidak mampu menjawab kebutuhan nyata organisasi. Justifikasi dan governance harus dipandang sebagai satu kesatuan model integratif untuk menghasilkan value delivery dari TI.
+
 Tujuan penelitian ini adalah:
 1.	mengkaji konsep justifikasi investasi TI
 2.	mengkaji mekanisme tata kelola TI melalui COBIT
 3.	mengintegrasikan temuan literatur terkait hubungan keduanya
 4.	menyusun pemahaman konseptual berbasis evidence dari literatur
+   
 Penelitian ini penting karena:
 •	organisasi sering salah memutuskan prioritas investasi TI
 •	intangible benefit sering diabaikan
 •	banyak investasi TI tidak pernah dievaluasi setelah implementasi
 •	governance maturity sering tidak diukur secara formal
+
 Penelitian ini memberikan kontribusi teoritis berupa integrasi konsep justification dan IT governance ke dalam model interpretatif berbasis evidence literatur dalam konteks strategi TI enterprise modern.
 
 ---
@@ -37,12 +42,14 @@ Penelitian ini memberikan kontribusi teoritis berupa integrasi konsep justificat
 ## Tinjauan Pustaka
 2.1. Investasi TI
 Investasi TI mencakup pengadaan sistem informasi, platform digital, perangkat keras, perangkat lunak, infrastruktur cloud, layanan data, cybersecurity, hingga pelatihan karyawan dalam rangka adopsi teknologi. Secara tradisional, investasi TI dipandang sebagai cost-center, namun pada era digital, TI adalah value driver utama bagi perusahaan modern[7].
+
 2.2. Metode Evaluasi Finansial
 Metode evaluasi finansial umum dalam justification adalah:
 1.	ROI = efisiensi return atas biaya investasi
 2.	NPV = nilai future cash flow yang dikonversi ke current value
 3.	IRR = tingkat pengembalian internal proyek
 Metode finansial ini sangat relevan untuk proyek-proyek yang memiliki benefit direct revenue.
+
 2.3. Variabel Non-Finansial dalam Investasi TI
 Sejumlah penelitian menyatakan bahwa indikator non-finansial merupakan determinan strategis dari keberhasilan investasi TI dalam jangka panjang. Indikator ini sulit dikonversi ke nilai uang, tetapi memiliki pengaruh signifikan terhadap competitive performance organisasi. Beberapa variabel non-finansial utama adalah:
 •	peningkatan kualitas layanan (service quality)
@@ -52,12 +59,14 @@ Sejumlah penelitian menyatakan bahwa indikator non-finansial merupakan determina
 •	percepatan pengambilan keputusan berbasis data
 •	inovasi produk dan layanan digital
 Intangible value berbasis digital capability memberikan peran lebih kuat pada keberlanjutan nilai organisasi dibanding cost saving jangka pendek[8]. Hal ini menunjukkan bahwa justification TI yang hanya melihat ROI klasik adalah premis yang tidak lagi relevan di era digital.
+
 2.4. Tata Kelola TI (IT Governance)
 Tata kelola TI adalah sistem struktur, proses, dan mekanisme decision rights untuk memastikan aktivitas TI mendukung tujuan strategis, mengontrol risiko, dan menciptakan nilai bisnis. COBIT 2019 menetapkan bahwa governance domain mencakup evaluate, direct, and monitor (EDM).
 Dalam konteks COBIT:
 •	IT governance → board responsibility
 •	IT management → implementasi operasional
 Governance maturity adalah faktor mediating yang menghubungkan IT investment dengan business value[9].
+
 2.5. Kerangka Tata Kelola TI
 Kerangka yang umum dipakai:
 Framework	Karakteristik fokus
@@ -65,6 +74,7 @@ COBIT 2019	governance, value, process capability
 ITIL 4	service value system, operations excellence
 ISO/IEC 38500	governance principles pada level board
 COBIT 2019 paling sering digunakan karena menyediakan model capability maturity yang dapat dikalkulasi dan dinilai secara kuantitatif.
+
 2.6. Hubungan Investasi TI dan Tata Kelola TI
 Hubungan keduanya adalah interdependensi, bukan sekadar komplementer[10]. Tanpa governance, salah menentukan prioritas investasi akan menghasilkan proyek TI yang tidak berhubungan dengan strategi bisnis. Justification memberikan dasar keputusan investasi, governance menyediakan mekanisme pengawasan untuk memastikan bahwa investasi tersebut menghasilkan value yang dijanjikan.
 
@@ -100,6 +110,7 @@ metode ekstraksi literatur menggunakan coding: concept → theme → cross findi
 Alignment meningkatkan efektivitas portfolio investasi TI.
 4. Monitoring dan Performance Measurement
 tanpa tracking, benefit TI hanya asumsi.
+
 4.2. Pembahasan
 Hasil integrasi 20 literatur menunjukkan empat pola benang merah utama:
 1.	Justifikasi tanpa governance → menyebabkan bias keputusan investasi.
@@ -115,6 +126,7 @@ investasi TI harus memiliki indikator keberhasilan berbasis KPI yang diukur seca
 
 ## Kesimpulan
 Artikel ini menyimpulkan bahwa justifikasi investasi TI dan tata kelola TI merupakan dua domain yang saling menguatkan. Justifikasi menyediakan dasar argumentasi untuk melakukan investasi berdasarkan benefit finansial dan non-finansial, sedangkan tata kelola TI menyediakan struktur untuk memastikan bahwa investasi yang dilakukan benar-benar menghasilkan nilai bisnis dalam jangka panjang.
+
 Temuan utama:
 •	non-financial benefit tidak boleh diabaikan
 •	governance maturity meningkatkan value realization
