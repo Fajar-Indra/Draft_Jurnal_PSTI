@@ -59,12 +59,19 @@ Metode finansial ini sangat relevan untuk proyek-proyek yang memiliki benefit di
 2.3. Variabel Non-Finansial dalam Investasi TI
 
 Sejumlah penelitian menyatakan bahwa indikator non-finansial merupakan determinan strategis dari keberhasilan investasi TI dalam jangka panjang. Indikator ini sulit dikonversi ke nilai uang, tetapi memiliki pengaruh signifikan terhadap competitive performance organisasi. Beberapa variabel non-finansial utama adalah:
+
 •	peningkatan kualitas layanan (service quality)
+
 •	peningkatan pengalaman pelanggan (customer experience)
+
 •	organizational agility
+
 •	efisiensi proses lintas unit
+
 •	percepatan pengambilan keputusan berbasis data
+
 •	inovasi produk dan layanan digital
+
 Intangible value berbasis digital capability memberikan peran lebih kuat pada keberlanjutan nilai organisasi dibanding cost saving jangka pendek[8]. Hal ini menunjukkan bahwa justification TI yang hanya melihat ROI klasik adalah premis yang tidak lagi relevan di era digital.
 
 2.4. Tata Kelola TI (IT Governance)
@@ -101,7 +108,9 @@ Hubungan keduanya adalah interdependensi, bukan sekadar komplementer[10]. Tanpa 
 Penelitian ini menggunakan Systematic Literature Review yang mengikuti pendekatan PRISMA. Sumber data berasal dari:
 
 •	Scopus Q1–Q3
+
 •	SINTA 2
+
 •	rentang tahun 2021–2025
 
 Tahapan penyaringan:
