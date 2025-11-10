@@ -123,6 +123,7 @@ Tahapan penyaringan:
 | 5. Coding & Extraction | Mapping konsep → tema → cross finding | thematic evidence mapping |
 
 Kriteria inklusi:
+
 •	fokus topik: IT investment + IT governance
 
 •	konteks organisasi, bukan “personal digital technology”
