@@ -32,8 +32,11 @@ Tujuan penelitian ini adalah:
 Penelitian ini penting karena:
 
 •	organisasi sering salah memutuskan prioritas investasi TI
+
 •	intangible benefit sering diabaikan
+
 •	banyak investasi TI tidak pernah dievaluasi setelah implementasi
+
 •	governance maturity sering tidak diukur secara formal
 
 Penelitian ini memberikan kontribusi teoritis berupa integrasi konsep justification dan IT governance ke dalam model interpretatif berbasis evidence literatur dalam konteks strategi TI enterprise modern.
