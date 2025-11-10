@@ -111,7 +111,9 @@ Tahapan penyaringan:
 
 Kriteria inklusi:
 •	fokus topik: IT investment + IT governance
+
 •	konteks organisasi, bukan “personal digital technology”
+
 •	metode studi: empirical, case study, modelling, atau conceptual synthesis
 
 metode ekstraksi literatur menggunakan coding: concept → theme → cross finding mapping.
