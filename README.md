@@ -2,7 +2,7 @@
 
 **Fajar Indra Nur Alam**, **Basuki Rahmat**  
 1 Magister Teknologi Informasi, Universitas Pembangunan Nasional Veteran Jawa Timur  
-2 Magister Teknologi Informasi, Universitas Pembangunan Nasional Veteran Jawa Timur  
+2 Universitas Pembangunan Nasional Veteran Jawa Timur  
 Email: fajarindra.upnvjatim@gmail.com , basukirahmat.if@upnjatim.ac.id
 
 ---
