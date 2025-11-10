@@ -41,9 +41,11 @@ Penelitian ini memberikan kontribusi teoritis berupa integrasi konsep justificat
 
 ## Tinjauan Pustaka
 2.1. Investasi TI
+
 Investasi TI mencakup pengadaan sistem informasi, platform digital, perangkat keras, perangkat lunak, infrastruktur cloud, layanan data, cybersecurity, hingga pelatihan karyawan dalam rangka adopsi teknologi. Secara tradisional, investasi TI dipandang sebagai cost-center, namun pada era digital, TI adalah value driver utama bagi perusahaan modern[7].
 
 2.2. Metode Evaluasi Finansial
+
 Metode evaluasi finansial umum dalam justification adalah:
 1.	ROI = efisiensi return atas biaya investasi
 2.	NPV = nilai future cash flow yang dikonversi ke current value
@@ -51,6 +53,7 @@ Metode evaluasi finansial umum dalam justification adalah:
 Metode finansial ini sangat relevan untuk proyek-proyek yang memiliki benefit direct revenue.
 
 2.3. Variabel Non-Finansial dalam Investasi TI
+
 Sejumlah penelitian menyatakan bahwa indikator non-finansial merupakan determinan strategis dari keberhasilan investasi TI dalam jangka panjang. Indikator ini sulit dikonversi ke nilai uang, tetapi memiliki pengaruh signifikan terhadap competitive performance organisasi. Beberapa variabel non-finansial utama adalah:
 •	peningkatan kualitas layanan (service quality)
 •	peningkatan pengalaman pelanggan (customer experience)
@@ -61,6 +64,7 @@ Sejumlah penelitian menyatakan bahwa indikator non-finansial merupakan determina
 Intangible value berbasis digital capability memberikan peran lebih kuat pada keberlanjutan nilai organisasi dibanding cost saving jangka pendek[8]. Hal ini menunjukkan bahwa justification TI yang hanya melihat ROI klasik adalah premis yang tidak lagi relevan di era digital.
 
 2.4. Tata Kelola TI (IT Governance)
+
 Tata kelola TI adalah sistem struktur, proses, dan mekanisme decision rights untuk memastikan aktivitas TI mendukung tujuan strategis, mengontrol risiko, dan menciptakan nilai bisnis. COBIT 2019 menetapkan bahwa governance domain mencakup evaluate, direct, and monitor (EDM).
 Dalam konteks COBIT:
 •	IT governance → board responsibility
@@ -68,6 +72,7 @@ Dalam konteks COBIT:
 Governance maturity adalah faktor mediating yang menghubungkan IT investment dengan business value[9].
 
 2.5. Kerangka Tata Kelola TI
+
 Kerangka yang umum dipakai:
 Framework	Karakteristik fokus
 COBIT 2019	governance, value, process capability
@@ -76,6 +81,7 @@ ISO/IEC 38500	governance principles pada level board
 COBIT 2019 paling sering digunakan karena menyediakan model capability maturity yang dapat dikalkulasi dan dinilai secara kuantitatif.
 
 2.6. Hubungan Investasi TI dan Tata Kelola TI
+
 Hubungan keduanya adalah interdependensi, bukan sekadar komplementer[10]. Tanpa governance, salah menentukan prioritas investasi akan menghasilkan proyek TI yang tidak berhubungan dengan strategi bisnis. Justification memberikan dasar keputusan investasi, governance menyediakan mekanisme pengawasan untuk memastikan bahwa investasi tersebut menghasilkan value yang dijanjikan.
 
 ---
