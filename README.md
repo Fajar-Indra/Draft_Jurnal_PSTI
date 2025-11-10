@@ -95,20 +95,25 @@ Hubungan keduanya adalah interdependensi, bukan sekadar komplementer[10]. Tanpa 
 
 ## Metodologi
 Penelitian ini menggunakan Systematic Literature Review yang mengikuti pendekatan PRISMA. Sumber data berasal dari:
+
 •	Scopus Q1–Q3
 •	SINTA 2
 •	rentang tahun 2021–2025
 
 Tahapan penyaringan:
-Tahap	Jumlah
-ditemukan awal	84 artikel
-setelah screening judul	52 artikel
-setelah abstract screening	29 artikel
-final qualified	20 artikel
+| Tahap | Aktivitas | Output |
+|-------|-----------|--------|
+| 1. Identifikasi Literatur | Penelusuran jurnal Scopus & SINTA 2021–2025 | 84 artikel ditemukan |
+| 2. Screening Judul | Seleksi kesesuaian topik (IT Investment + IT Governance) | 52 artikel tersisa |
+| 3. Screening Abstrak | Eliminasi studi non-organisasi & non-empiris | 29 artikel tersisa |
+| 4. Final Eligibility | Kesesuaian kriteria inklusi | 20 artikel final |
+| 5. Coding & Extraction | Mapping konsep → tema → cross finding | thematic evidence mapping |
+
 Kriteria inklusi:
 •	fokus topik: IT investment + IT governance
 •	konteks organisasi, bukan “personal digital technology”
 •	metode studi: empirical, case study, modelling, atau conceptual synthesis
+
 metode ekstraksi literatur menggunakan coding: concept → theme → cross finding mapping.
 
 ---
