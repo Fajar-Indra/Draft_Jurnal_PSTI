@@ -68,7 +68,9 @@ Intangible value berbasis digital capability memberikan peran lebih kuat pada ke
 Tata kelola TI adalah sistem struktur, proses, dan mekanisme decision rights untuk memastikan aktivitas TI mendukung tujuan strategis, mengontrol risiko, dan menciptakan nilai bisnis. COBIT 2019 menetapkan bahwa governance domain mencakup evaluate, direct, and monitor (EDM).
 
 Dalam konteks COBIT:
+
 •	IT governance → board responsibility
+
 •	IT management → implementasi operasional
 
 Governance maturity adalah faktor mediating yang menghubungkan IT investment dengan business value[9].
