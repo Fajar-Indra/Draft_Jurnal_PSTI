@@ -77,10 +77,11 @@ Governance maturity adalah faktor mediating yang menghubungkan IT investment den
 
 Kerangka yang umum dipakai:
 
-Framework	Karakteristik fokus
-COBIT 2019	governance, value, process capability
-ITIL 4	service value system, operations excellence
-ISO/IEC 38500	governance principles pada level board
+| Framework       | Karakteristik Fokus                              |
+|-----------------|---------------------------------------------------|
+| **COBIT 2019**  | governance, value, process capability             |
+| **ITIL 4**      | service value system, operations excellence       |
+| **ISO/IEC 38500** | governance principles pada level board          |
 
 COBIT 2019 paling sering digunakan karena menyediakan model capability maturity yang dapat dikalkulasi dan dinilai secara kuantitatif.
 
