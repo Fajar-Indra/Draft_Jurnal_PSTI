@@ -66,18 +66,22 @@ Intangible value berbasis digital capability memberikan peran lebih kuat pada ke
 2.4. Tata Kelola TI (IT Governance)
 
 Tata kelola TI adalah sistem struktur, proses, dan mekanisme decision rights untuk memastikan aktivitas TI mendukung tujuan strategis, mengontrol risiko, dan menciptakan nilai bisnis. COBIT 2019 menetapkan bahwa governance domain mencakup evaluate, direct, and monitor (EDM).
+
 Dalam konteks COBIT:
 •	IT governance → board responsibility
 •	IT management → implementasi operasional
+
 Governance maturity adalah faktor mediating yang menghubungkan IT investment dengan business value[9].
 
 2.5. Kerangka Tata Kelola TI
 
 Kerangka yang umum dipakai:
+
 Framework	Karakteristik fokus
 COBIT 2019	governance, value, process capability
 ITIL 4	service value system, operations excellence
 ISO/IEC 38500	governance principles pada level board
+
 COBIT 2019 paling sering digunakan karena menyediakan model capability maturity yang dapat dikalkulasi dan dinilai secara kuantitatif.
 
 2.6. Hubungan Investasi TI dan Tata Kelola TI
